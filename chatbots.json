@@ -1,0 +1,69 @@
+{
+   "brain":[
+    
+      {
+    "triggers":[
+     "nice",
+     "good",
+     "compliment",
+     "smart",
+     "pretty",
+     "beautiful","i like","best","appreciate","great","wonderful","inspiring","attractive","brave","admirable","amazing","excellent","talented","thoughtful","creative","cool","pretty","nice","magnificent","spectacular","dope","gas","slay","fire","lit","the g","cute","love","sleigh","play","super","extraordinary","bussin","ahtesham","professor","married","elizabeth","iqra","ian","wow"],
+         "responses":[
+           
+
+            
+         ]
+      },
+       {
+    "triggers":[
+         
+         ],
+         "responses":[
+          
+            
+         ]
+      },
+      {
+         "triggers":[
+           
+            
+         ],
+         "responses":[
+        
+           
+           
+         ]
+      },
+       {
+         "triggers":[
+          
+            
+         ],
+         "responses":[
+         
+         ]
+      },
+ {     "triggers":[
+         
+            
+         ],
+         "responses":[
+         
+         ]
+      },
+      {
+         "triggers":[
+            
+         ],
+         "responses":[ 
+           
+         ]
+      }
+   ],
+   "catchall":[
+   
+
+      
+   ]
+}
